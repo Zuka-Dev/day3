@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-self: center;
+}
+#joim{
+    position: relative;
+    top: 30%;
+    width: fit-content;
+    vertical-align: middle;
+    
+}
+body {
+    background-image: url('jgkg.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
